@@ -1,3 +1,4 @@
+![Uploading gear.jpg…]()
 ---
 title: Organizations and teams
 shortTitle: Organizations
